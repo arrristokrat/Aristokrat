@@ -1,0 +1,38 @@
+[
+  {
+    "img": "images/first.svg",
+    "alt": "1"
+  },
+  {
+    "img": "images/second.svg",
+    "alt": "2"
+  },
+  {
+    "img": "images/1.svg",
+    "alt": "3"
+  },
+  {
+    "img": "images/2.svg",
+    "alt": "4"
+  },
+  {
+    "img": "images/3.svg",
+    "alt": "5"
+  },
+  {
+    "img": "images/4.svg",
+    "alt": "6"
+  },
+  {
+    "img": "images/5.svg",
+    "alt": "7"
+  },
+  {
+    "img": "images/6.svg",
+    "alt": "8"
+  },
+  {
+    "img": "images/6.svg",
+    "alt": "9"
+  }
+]
