@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Aristokrat/static/css/main.8dbe3e92.css",
-    "main.js": "/Aristokrat/static/js/main.fd8503ba.js",
+    "main.js": "/Aristokrat/static/js/main.5635eef5.js",
     "static/js/787.8106bed3.chunk.js": "/Aristokrat/static/js/787.8106bed3.chunk.js",
     "index.html": "/Aristokrat/index.html",
     "main.8dbe3e92.css.map": "/Aristokrat/static/css/main.8dbe3e92.css.map",
-    "main.fd8503ba.js.map": "/Aristokrat/static/js/main.fd8503ba.js.map",
+    "main.5635eef5.js.map": "/Aristokrat/static/js/main.5635eef5.js.map",
     "787.8106bed3.chunk.js.map": "/Aristokrat/static/js/787.8106bed3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8dbe3e92.css",
-    "static/js/main.fd8503ba.js"
+    "static/js/main.5635eef5.js"
   ]
 }
